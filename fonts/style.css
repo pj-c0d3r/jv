@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'The Quiz Script';
+    src: local('The Quiz Script Regular'), local('The-Quiz-Script-Regular'),
+        url('TheQuizScript-Regular.woff2') format('woff2'),
+        url('TheQuizScript-Regular.woff') format('woff'),
+        url('TheQuizScript-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
